@@ -1,0 +1,14 @@
+xerces-c-devel
+yaml-cpp
+json-devel
+spdlog
+libX11-devel
+libXp-devel 
+libXpm-devel 
+libXmu-devel 
+libXi-devel 
+libXft-devel 
+libXt-devel 
+libXv-devel
+
+qt5*devel
